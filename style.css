@@ -1,0 +1,12 @@
+body {
+    background-color: #eee;
+    color: #0056b3; /* Dark blue text */
+    text-align: center;
+    padding-top: 50px;
+}
+
+.js-active {
+    color: #d9534f; /* Red text */
+    border: 2px solid #d9534f;
+    padding: 10px;
+}
